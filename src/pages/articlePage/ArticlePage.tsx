@@ -76,7 +76,9 @@ export const ArticlePage: React.FC<ArticlePageProps> = (props) => {
             </div>
           </div>
         </div>
-        <div className="border border-red-500 w-full">Extra content</div>
+        <div className="bg-white shadow-xl w-full p-8 rounded-lg font-bold">
+          Extra content
+        </div>
       </div>
     </article>
   );
