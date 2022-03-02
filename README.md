@@ -7,11 +7,16 @@
 1. Czym jest Tailwind (dodać screen z CSS trendsow)
 1. Dlaczego warto go użyć
 1. Jakie są wady Tailwinda
+1. Oficjalne pluginy
+   - @tailwindcss/typography (prose)
+   - @tailwindcss/forms (default styling for forms elements)
+   - line-clamp
+   - aspect-ratio
 1. Alternatywy dla Tailwinda (Można zacząć pisać utility klasy samemu w swoich projektach)
 
 ### Live code
 
-1. Tailwind components library: https://tailwindui.com/
+1. ~~Tailwind components library: https://tailwindui.com/~~ -> Płatne
 1. Setup + integracja z VSC
 1. Layout strony
 1. Responsywność

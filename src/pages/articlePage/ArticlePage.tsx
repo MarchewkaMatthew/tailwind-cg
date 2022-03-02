@@ -9,10 +9,10 @@ export const ArticlePage: React.FC<ArticlePageProps> = (props) => {
   return (
     <article className="bg-slate-200 p-16 min-h-screen">
       <h1 className="text-center text-xl mt-8">{title}</h1>
-      <div className="w-96 bg-black h-1 mx-auto mt-4 rounded-sm" />
+      <div className="w-96 max-w-full bg-black h-1 mx-auto mt-4 rounded-sm" />
       <div className="w-6 aspect-square bg-red-500 mx-auto mt-8" />
       <div className="container mx-auto py-2 group">
-        <p className="mt-8 first:mt-0">
+        <p className="mt-8 first:mt-0 line-">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vitae
           massa sit amet enim malesuada tincidunt. Cras vel ipsum libero.
           Pellentesque non aliquam sapien, sit amet aliquet diam. Orci varius
