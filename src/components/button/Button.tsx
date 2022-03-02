@@ -14,28 +14,29 @@ interface ButtonProps {
   disabled?: boolean;
 }
 
-export const Button = React.forwardRef<HTMLButtonElement | null, ButtonProps>((props, ref) => {
-  const {
-    children,
-    onClick,
-    type = "solid",
-    variant = "primary",
-    size = "large",
-    disabled,
-  } = props;
+export const Button = React.forwardRef<HTMLButtonElement | null, ButtonProps>(
+  (props, ref) => {
+    const {
+      children,
+      onClick,
+      type = "solid",
+      variant = "primary",
+      size = "large",
+      disabled,
+    } = props;
 
-  console.log({ type, variant, size });
+    console.log({ type, variant, size });
 
-
-  return (
-    <button
-      {...props}
-      type="button"
-      ref={ref}
-      onClick={onClick}
-      disabled={disabled}
-    >
-      {children}
-    </button>
-  );
-});
+    return (
+      <button
+        {...props}
+        type="button"
+        ref={ref}
+        onClick={onClick}
+        disabled={disabled}
+      >
+        {children}
+      </button>
+    );
+  }
+);

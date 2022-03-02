@@ -22,7 +22,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 6006 -s public",
-    "build-storybook": "build-storybook -s public"
+    "build-storybook": "build-storybook -s public",
+    "eslint-fix": "eslint . --ext .ts,.tsx --fix --max-warnings=0"
   },
   "eslintConfig": {
     "extends": [
@@ -64,6 +65,13 @@
     "@storybook/react": "^6.4.19",
     "@storybook/testing-library": "^0.0.9",
     "autoprefixer": "^10.4.2",
+    "eslint": "^8.10.0",
+    "eslint-config-airbnb-typescript": "^16.1.0",
+    "eslint-config-prettier": "^8.4.0",
+    "eslint-plugin-autofix": "^1.1.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.29.2",
     "postcss": "^8.4.7",
     "tailwindcss": "^3.0.23",
     "webpack": "^5.69.1"

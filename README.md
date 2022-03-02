@@ -11,7 +11,7 @@
 
 ### Live code
 
-1. Tailwind components library
+1. Tailwind components library: https://tailwindui.com/
 1. Setup + integracja z VSC
 1. Layout strony
 1. Responsywność
