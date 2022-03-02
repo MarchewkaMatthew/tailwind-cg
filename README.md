@@ -12,7 +12,6 @@
    - @tailwindcss/forms (default styling for forms elements)
    - line-clamp
    - aspect-ratio
-1. Alternatywy dla Tailwinda (Można zacząć pisać utility klasy samemu w swoich projektach)
 
 ### Live code
 
