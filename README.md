@@ -17,6 +17,7 @@
 ### Live code
 
 1. ~~Tailwind components library: https://tailwindui.com/~~ -> Płatne
+   - Alternatywa z dostępnym darmowym planem: https://flowbite.com/
 1. Setup + integracja z VSC
 1. Layout strony
 1. Responsywność
@@ -39,3 +40,10 @@ Na następnym spotkaniu (17 marca) porozmawiamy sobie na temat naszych rozwiąza
 
 Link do Figmy:
 https://www.figma.com/file/tHc91cCq6NGpBX9FI4BwcG/Comparing-CSS-frameworks?node-id=9698%3A85001
+
+<details>
+   <summary>Jeżeli masz problem z zadaniem zajrzyj tutaj</summary>
+   
+   https://www.better.dev/making-buttons-with-tailwind-css
+   https://github.com/justalever/tailwindcss-button-components
+</details>
