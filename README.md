@@ -29,6 +29,9 @@
    - line-clamp
    - aspect-ratio
 4. Figma -> Tailwind: https://www.figma.com/community/plugin/785619431629077634/Figma-Tailwindcss
+5. Wiele przydatnych linków powiązanych z tym tematem: https://github.com/aniftyco/awesome-tailwindcss
+6. https://locastic.com/blog/i-was-wrong-about-utility-first-css-and-here-is-why/
+7. https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
 
 ## Zadanie domowe
 
