@@ -13,9 +13,9 @@
 1. ~~Tailwind components library: https://tailwindui.com/~~ -> Płatne
    - Alternatywa z dostępnym darmowym planem: https://flowbite.com/
 1. Setup + integracja z VSC
+1. Zmienne w Tailwind
 1. Layout strony
 1. Responsywność
-1. Zmienne w Tailwind
 1. Toggle component + dark mode
 
 ## Przydatne linki
