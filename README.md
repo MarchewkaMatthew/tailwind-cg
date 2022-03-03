@@ -4,16 +4,11 @@
 
 1. Czym jest Tailwind
 1. Co oznacza podejście utility-first
-1. Czym jest Tailwind (dodać screen z CSS trendsow)
-1. Dlaczego warto go użyć
+1. Czym jest Tailwind
+1. Dlaczego warto się nim zainteresować
 1. Jakie są wady Tailwinda
-1. Oficjalne pluginy
-   - @tailwindcss/typography (prose)
-   - @tailwindcss/forms (default styling for forms elements)
-   - line-clamp
-   - aspect-ratio
 
-### Live code
+### Live demo
 
 1. ~~Tailwind components library: https://tailwindui.com/~~ -> Płatne
    - Alternatywa z dostępnym darmowym planem: https://flowbite.com/
@@ -28,6 +23,12 @@
 1. Instalacja:
    https://tailwindcss.com/docs/installation
 2. Setup VSC: https://tailwindcss.com/docs/editor-setup
+3. Oficjalne pluginy
+   - @tailwindcss/typography (prose)
+   - @tailwindcss/forms (default styling for forms elements)
+   - line-clamp
+   - aspect-ratio
+4. Figma -> Tailwind: https://www.figma.com/community/plugin/785619431629077634/Figma-Tailwindcss
 
 ## Zadanie domowe
 

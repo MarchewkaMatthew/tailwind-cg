@@ -23,5 +23,5 @@ const Template: ComponentStory<typeof ArticlePage> = (args) => (
 
 export const Base = Template.bind({});
 Base.args = {
-  title: "Example article",
+  title: "Example article about the garlic bread",
 };
